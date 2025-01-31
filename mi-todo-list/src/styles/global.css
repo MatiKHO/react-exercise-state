@@ -1,0 +1,25 @@
+
+
+* {
+  font-family: "Futura";
+  background-color: #001f5c;
+  color: white
+}
+
+@font-face {
+  font-family: "Futura";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Futura Std Book"), url("FuturaStdBook.woff") format("woff");
+}
+
+@font-face {
+  font-family: "FuturaL";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Futura Std Light"), url("FuturaStdLight.woff") format("woff");
+}
+
+
+
+
